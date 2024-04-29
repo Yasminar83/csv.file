@@ -1,0 +1,16 @@
+D:\yasamin\c#\csv file\csv file\bin\Debug\net8.0-windows\csv file.exe
+D:\yasamin\c#\csv file\csv file\bin\Debug\net8.0-windows\csv file.deps.json
+D:\yasamin\c#\csv file\csv file\bin\Debug\net8.0-windows\csv file.runtimeconfig.json
+D:\yasamin\c#\csv file\csv file\bin\Debug\net8.0-windows\csv file.dll
+D:\yasamin\c#\csv file\csv file\bin\Debug\net8.0-windows\csv file.pdb
+D:\yasamin\c#\csv file\csv file\obj\Debug\net8.0-windows\csv_file.Form1.resources
+D:\yasamin\c#\csv file\csv file\obj\Debug\net8.0-windows\csv file.csproj.GenerateResource.cache
+D:\yasamin\c#\csv file\csv file\obj\Debug\net8.0-windows\csv file.GeneratedMSBuildEditorConfig.editorconfig
+D:\yasamin\c#\csv file\csv file\obj\Debug\net8.0-windows\csv file.AssemblyInfoInputs.cache
+D:\yasamin\c#\csv file\csv file\obj\Debug\net8.0-windows\csv file.AssemblyInfo.cs
+D:\yasamin\c#\csv file\csv file\obj\Debug\net8.0-windows\csv file.csproj.CoreCompileInputs.cache
+D:\yasamin\c#\csv file\csv file\obj\Debug\net8.0-windows\csv file.dll
+D:\yasamin\c#\csv file\csv file\obj\Debug\net8.0-windows\refint\csv file.dll
+D:\yasamin\c#\csv file\csv file\obj\Debug\net8.0-windows\csv file.pdb
+D:\yasamin\c#\csv file\csv file\obj\Debug\net8.0-windows\csv file.genruntimeconfig.cache
+D:\yasamin\c#\csv file\csv file\obj\Debug\net8.0-windows\ref\csv file.dll
